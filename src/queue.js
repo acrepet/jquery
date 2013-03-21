@@ -1,3 +1,5 @@
+// Fake modif for Github training
+
 jQuery.extend({
 	queue: function( elem, type, data ) {
 		var queue;
